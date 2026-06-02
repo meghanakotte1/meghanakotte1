@@ -92,13 +92,6 @@ Full-stack store with cart, product search, and payments using React and Spring 
 
 ---
 
-## 📊 GitHub stats
-
-![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meghanakotte1&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanakotte1&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🎓 Education & certifications
 
 - 🎓 **MS in Computer Science** — Northern Illinois University (2023–2025)
